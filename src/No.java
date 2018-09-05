@@ -1,6 +1,6 @@
 
 /**
- * No para uma Lista Simplesmente Encadeadada
+ * No para uma Lista Encadeadada
  *
  */
 public class No {
